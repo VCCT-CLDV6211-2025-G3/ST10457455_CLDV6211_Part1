@@ -10,7 +10,6 @@ namespace EventEaseBookingSystem.Models
         public DbSet<Event> Events { get; set; }
         public DbSet<Booking> Bookings { get; set; }
         public DbSet<BookingView> BookingViews { get; set; }
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<BookingView>().HasNoKey().ToView("BookingView");

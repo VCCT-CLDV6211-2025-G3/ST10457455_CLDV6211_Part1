@@ -18,6 +18,30 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/jamesbaker/Desktop/C# Programs/EventEaseBookingSystem
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/jamesbaker/Desktop/C\# Programs/EventEaseBookingSystem/EventEaseBookingSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRFYXNlQm9va2luZ1N5c3RlbS9WaWV3cy9Ib21lL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamesbaker/Desktop/C\# Programs/EventEaseBookingSystem/EventEaseBookingSystem/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRFYXNlQm9va2luZ1N5c3RlbS9WaWV3cy9Ib21lL1ByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamesbaker/Desktop/C\# Programs/EventEaseBookingSystem/EventEaseBookingSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRFYXNlQm9va2luZ1N5c3RlbS9WaWV3cy9TaGFyZWQvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamesbaker/Desktop/C\# Programs/EventEaseBookingSystem/EventEaseBookingSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRFYXNlQm9va2luZ1N5c3RlbS9WaWV3cy9TaGFyZWQvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamesbaker/Desktop/C\# Programs/EventEaseBookingSystem/EventEaseBookingSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRFYXNlQm9va2luZ1N5c3RlbS9WaWV3cy9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamesbaker/Desktop/C\# Programs/EventEaseBookingSystem/EventEaseBookingSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRFYXNlQm9va2luZ1N5c3RlbS9WaWV3cy9fVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/jamesbaker/Desktop/C\# Programs/EventEaseBookingSystem/Views/Booking/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va2luZy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -65,6 +89,10 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/jamesbaker/Desktop/C\# Programs/EventEaseBookingSystem/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamesbaker/Desktop/C\# Programs/EventEaseBookingSystem/EventEaseBookingSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRFYXNlQm9va2luZ1N5c3RlbS9WaWV3cy9TaGFyZWQvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-a73fghkpea
 
 [/Users/jamesbaker/Desktop/C\# Programs/EventEaseBookingSystem/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s

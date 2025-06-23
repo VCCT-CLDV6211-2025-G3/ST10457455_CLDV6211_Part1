@@ -1,0 +1,9 @@
+/Users/jamesbaker/Desktop/C# Programs/EventEaseBookingSystem/obj/Debug/net8.0/EventEaseBookingSystem.csproj.AssemblyReference.cache
+/Users/jamesbaker/Desktop/C# Programs/EventEaseBookingSystem/obj/Debug/net8.0/EventEaseBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesbaker/Desktop/C# Programs/EventEaseBookingSystem/obj/Debug/net8.0/EventEaseBookingSystem.AssemblyInfoInputs.cache
+/Users/jamesbaker/Desktop/C# Programs/EventEaseBookingSystem/obj/Debug/net8.0/EventEaseBookingSystem.AssemblyInfo.cs
+/Users/jamesbaker/Desktop/C# Programs/EventEaseBookingSystem/obj/Debug/net8.0/EventEaseBookingSystem.csproj.CoreCompileInputs.cache
+/Users/jamesbaker/Desktop/C# Programs/EventEaseBookingSystem/obj/Debug/net8.0/EventEaseBookingSystem.MvcApplicationPartsAssemblyInfo.cache
+/Users/jamesbaker/Desktop/C# Programs/EventEaseBookingSystem/obj/Debug/net8.0/EventEaseBookingSystem.RazorAssemblyInfo.cache
+/Users/jamesbaker/Desktop/C# Programs/EventEaseBookingSystem/obj/Debug/net8.0/EventEaseBookingSystem.RazorAssemblyInfo.cs
+/Users/jamesbaker/Desktop/C# Programs/EventEaseBookingSystem/obj/Debug/net8.0/EventEaseBookingSystem.sourcelink.json
